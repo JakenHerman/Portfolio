@@ -64,7 +64,7 @@ Tech/Concepts used in Tweety
  - Travis Continuous Integration
  - Twitter API
  
-#Others
+# Others
 I have done other work not listed here, simply because it is either something I don't have a site for, or it simply isn't that easy to show off. Things like Android work, iOS work (only have dabbled, nothing actual worth anything), Ada Data Structures like BSTs, Topological Sorts, etc. Some of my numerical methods work and assembly code I did not link because I didn't find it interesting enough to show off.
 
 I did create a YouTube video series on how to create a threaded binary search tree in Ada. That can be found [here](https://www.youtube.com/playlist?list=PLOSlQdcu43L6-IPYp-kLbWVp6aBxJnl6N).
