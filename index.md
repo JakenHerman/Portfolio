@@ -12,7 +12,7 @@ Tech/Concepts Used in 404 Friends:
  - Sass
  - Git VCS
 
-#BubbaSim
+# BubbaSim
 This is a Processor Scheduling Simulator I wrote in Java. It simulates the preemptive priority scheduling algorithm for job handling. It has it's own website. [Click here to see BubbaSim Site](http://jakenherman.github.io/BubbaSim). The code is very well commented, structured, and documented. To get the code and look at the documentation, [click here to go to the repository](http://github.com/jakenherman/BubbaSim).
 
 Tech/Concepts Used in BubbaSim
@@ -23,7 +23,7 @@ Tech/Concepts Used in BubbaSim
  - Object Oriented Programming
  - Git VCS
  
-#kcats
+# kcats
 kcats is a stack data structure implementation in NodeJS. It was one of my first projects I created while learning Node. It is on NPM and has over 1,000 total downloads. It has functionality to create multiple stacks in one array, so it is a multistack data structure and dynamically allocates storage space if one stack gets too big. kcats has it's own website. [Click here to see kcats Site](http://jakenherman.github.io/kcats). The code is well structured, linted, tested, documented, etc. To get the code and look at the documentation, [click here to go to the repository](http://github.com/jakenherman/kcats) or to see it on npm go to [https://www.npmjs.com/package/kcats](https://www.npmjs.com/package/kcats).
 
 Tech/Concepts Used in kcats
