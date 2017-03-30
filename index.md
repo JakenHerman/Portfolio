@@ -3,7 +3,7 @@
 This portfolio is some of the academic work I have completed over the past few years as well as some of the web development work I have done for Sam Houston State University.
 
 # 404 Friends
-This is a silly little page I made for fun one day when I was thinking about creating custom 404 pages. Basically, it looks like a command line prompt and asks if you like puppies or kittens. If you type "Puppies", it shows a GIF of a puppy. If you type "Kittens", it shows a GIF of a kitten. If you don't give it a valid command, it tells you so.
+This is a silly little page I made for fun one day when I was thinking about creating custom 404 pages. Basically, it looks like a command line prompt and asks if you like puppies or kittens. If you type "Puppies", it shows a GIF of a puppy. If you type "Kittens", it shows a GIF of a kitten. If you don't give it a valid command, it tells you so. To see 404 friends in action, [click here](http://jakenherman.github.io/404-Friends/).
 Tech/Concepts Used in 404 Friends:
 ---
  - Giphy API
